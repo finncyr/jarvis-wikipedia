@@ -28,6 +28,14 @@ You: Donnes moi la definition de XXXXX
 Jarvis: Je me renseigne
 Jarvis: XXXXXXXXXXX
 ```
+------------------------------------------------------------------
+DE
+
+```
+You: Definiere XXXXX
+Jarvis: Ich suche auf Wikipedia
+Jarvis: XXXXXXXXXXX
+```
 
 
 ## Author
