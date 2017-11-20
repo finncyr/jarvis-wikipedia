@@ -1,1 +1,2 @@
-*GIB*DEFINITION*VON (*)|*FINDE (*) *WIKIPEDIA==say "Ich suche" && say "$(jv_pg_wk_search "(1)")"
+*GIB*DEFINITION*VON (*)==say "Ich suche auf Wikipedia" && say "$(jv_pg_wk_search "(1)")"
+*DEFINIERE (*)==say "Ich suche auf Wikipedia" && say "$(jv_pg_wk_search "(1)")"
