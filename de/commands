@@ -1,0 +1,1 @@
+*GIB*DEFINITION*VON (*)|*FINDE (*) *WIKIPEDIA==say "Ich suche" && say "$(jv_pg_wk_search "(1)")"
